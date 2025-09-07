@@ -22,7 +22,7 @@ const TrustedBy = () => {
       whileInView="visible"
       transition={{ staggerChildren: 0.1 }}
       viewport={{ once: true }}
-        className='flex items-center justify-center gap-10 m-4'>
+        className='flex items-center justify-center gap-10 m-4 flex-wrap'>
         {company_logos.map((logo, index) => (
           <motion.img
           variants={{
