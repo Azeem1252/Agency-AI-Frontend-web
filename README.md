@@ -2,7 +2,10 @@
 
 A sleek, responsive, and high-performance landing page for a digital marketing agency, built with **React**, featuring smooth animations, a dark/light mode toggle, and a functional contact form. This project was created for learning purposes by following a YouTube tutorial, helping me explore modern web development techniques with React and Tailwind CSS.
 
-![React](https://img.shields.io/badge/React-18.2.0-%2361DAFB?logo=react)![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.0-%2338B2AC?logo=tailwind-css)![Motion.Dev](https://motion.dev/)## ✨ Features
+![React](https://img.shields.io/badge/React-18.2.0-%2361DAFB?logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.0-%2338B2AC?logo=tailwind-css)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.4.2-%23005FEE?logo=framer)
+## ✨ Features
 
 - **Modern UI/UX Design:** Clean and professional layout prioritizing user experience.
 - **Fully Responsive:** Optimized for seamless performance across desktop, tablet, and mobile devices.
