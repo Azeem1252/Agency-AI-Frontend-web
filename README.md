@@ -124,9 +124,6 @@ To enable the contact form in `ContactUs.jsx`, configure it with a Web3Forms acc
 
 This project was built as part of my learning journey, following a YouTube tutorial to deepen my understanding of React, Tailwind CSS, and modern web development practices. It was a fantastic opportunity to explore component-based architecture, responsive design, and third-party integrations like Web3Forms.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🤝 Contributing
 
